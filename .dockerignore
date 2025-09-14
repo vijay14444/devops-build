@@ -1,3 +1,8 @@
 node_modules
-build
-*.log
+.git
+.gitignore
+Dockerfile
+Jenkinsfile
+docker-compose.yml
+build.sh
+deploy.sh
